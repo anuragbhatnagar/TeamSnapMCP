@@ -1,0 +1,39 @@
+tests/read-only.test.ts
+  s_66f128fd1336d2::t_716d96f45fb59a 1-68
+README.md
+  s_66f128fd1336d2::t_346e846d1b1592 277-293
+.env.example
+  s_66f128fd1336d2::t_aa4a7806d016aa 16-18
+src/api/client.ts
+  s_66f128fd1336d2::t_7836ac4d43c5cf 122-123
+src/auth/oauth.ts
+  s_66f128fd1336d2::t_b909f89cd58efd 48,76-78,82-84,86,139-140,146-150,155,159
+src/index.ts
+  s_66f128fd1336d2::t_ada0a772fe1956 13-14,29,35-37
+src/tools/handlers/auth.ts
+  s_66f128fd1336d2::t_b1e065eca7cb04 47-49
+src/utils/config.ts
+  s_66f128fd1336d2::t_1f0a93b249f668 18-24
+src/utils/readOnly.ts
+  s_66f128fd1336d2::t_08ee7b0d2d399e 1-15
+tests/client-reload.test.ts
+  s_66f128fd1336d2::t_7e4382dc8e6271 1-36
+tests/local-auth.test.ts
+  s_66f128fd1336d2::t_14335c8822e3f6 1-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "48613a4f31710dda0ca7e5ba48f977545acce4b7",
+  "prompts": {},
+  "sessions": {
+    "s_66f128fd1336d2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1373b-d155-7862-99af-55a267d3b53f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Anurag Bhatnagar <anuragb@zillowgroup.com>"
+    }
+  }
+}
